@@ -1,1 +1,2 @@
-# weather-cli
+"COMPANY " : CODETECT IT SOLUTIONS "NAME" : Pratibha Sagar "INTERN ID" : CITS9526 "DOMAIN": PYTHON PROGRAMMING " : 4 WEEKS MENTOR: Neela Santhosh Kumar DESCRITPION of Your project(Weather CLI is a command-line weather app written in Python. You type a city name and it shows the current weather, a 24-hour temperature trend and a 7-day forecast in a colourful, formatted terminal display. It needs no account or API key.)
+
